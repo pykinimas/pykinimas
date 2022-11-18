@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pykinimas
+- 👋 Hi, 
 - 👀 I’m interested in creating my own interactive visual experience on Unity.
 - 🌱 I’m currently learning Unity (Creative Core Pathway).
 - 💞️ I’m not looking for a collaboration atm.
